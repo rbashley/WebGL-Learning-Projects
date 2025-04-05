@@ -1,7 +1,9 @@
+
+// Initiate GL Context
+const canvas = document.getElementById("display");
+const gl = canvas.getContext("webgl");
+
 function main(){
-    // Initiate GL Context
-    const canvas = document.getElementById("display");
-    const gl = canvas.getContext("webgl");
 
     if(gl == null){
         alert("Unable to start WebGL");
