@@ -1,4 +1,4 @@
-WebGL Learning Projects
+#WebGL Learning Projects
 This repository contains a series of WebGL projects based on the MDN WebGL tutorial. The goal of this project is to learn the fundamentals of WebGL by building out examples and experimenting with 3D graphics in the browser.
 
 🚀 What is WebGL?
